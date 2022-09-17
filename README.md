@@ -1,9 +1,6 @@
 ### Hi there 👋
 
 <!--
-**ChuJiani/ChuJiani** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
 
 - 🔭 I’m currently working on ...
 - 🌱 I’m currently learning ...
@@ -13,10 +10,14 @@ Here are some ideas to get you started:
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
+
 -->
 
 #### Statistical data
-![](https://github-readme-stats.vercel.app/api?username=ChuJiani&show_icons=true&title_color=8ecae6&icon_color=2a9d8f&text_color=cbf3f0&bg_color=264653)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=ChuJiani&show_icons=true&title_color=8ecae6&icon_color=2a9d8f&text_color=cbf3f0&bg_color=264653)
+
+#### Favorite Languages
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ChuJiani&layout=compact&show_icons=true&title_color=8ecae6&icon_color=2a9d8f&text_color=cbf3f0&bg_color=264653)
 
 #### Visitors (Since 2022/8/19)
-![](https://count.getloli.com/get/@ChuJiani?theme=rule34)
+![Visitors](https://count.getloli.com/get/@ChuJiani?theme=rule34)
