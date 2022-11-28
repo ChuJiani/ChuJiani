@@ -13,11 +13,11 @@
 
 -->
 
-#### Statistical data
+<!--#### Statistical data
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=ChuJiani&show_icons=true&title_color=8ecae6&icon_color=2a9d8f&text_color=cbf3f0&bg_color=264653)
 
-#### Favorite Languages
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ChuJiani&layout=compact&show_icons=true&title_color=8ecae6&icon_color=2a9d8f&text_color=cbf3f0&bg_color=264653)
 
 #### Visitors (Since 2022/8/19)
 ![Visitors](https://count.getloli.com/get/@ChuJiani?theme=rule34)
+-->
