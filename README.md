@@ -1,4 +1,4 @@
-### Hi there 👋
+## Hi there 👋
 
 <!--
 
@@ -13,11 +13,11 @@
 
 -->
 
-#### Github Statics
+### Github Statics
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=ChuJiani&show_icons=true&title_color=8ecae6&icon_color=2a9d8f&text_color=cbf3f0&bg_color=264653)
 
-#### Languages
-Recently learning about cpp, golang, python, lua and shell.
+### Languages
+Recently coding with `cpp`, `golang`, `python`, `lua` and `shell`.
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ChuJiani&layout=compact&show_icons=true&title_color=8ecae6&icon_color=2a9d8f&text_color=cbf3f0&bg_color=264653)
 
